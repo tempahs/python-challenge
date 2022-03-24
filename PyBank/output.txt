@@ -1,0 +1,7 @@
+Financial Analysis
+---------------------
+Total Months: 86
+Total: U$ 22564198
+Average Change: U$ -8311.11
+Greatest Increase in Profits: Aug-16 (U$ 1862002)
+Greatest Decrease in Profits: Feb-14 (U$ -1825558)
